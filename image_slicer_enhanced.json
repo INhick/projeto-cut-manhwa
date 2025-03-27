@@ -1,0 +1,25 @@
+{
+    "hotkeys": {
+        "add_images": "<Control-o>",
+        "slice_images": "<Control-s>",
+        "clear_slices": "<Control-c>",
+        "toggle_cut_mode": "<Control-m>",
+        "next_image": "<Right>",
+        "previous_image": "<Left>",
+        "clear_all_images": "<Control-Delete>",
+        "rotate_left": "<Control-Left>",
+        "rotate_right": "<Control-Right>",
+        "enhance_image": "<Control-e>"
+    },
+    "theme": "dark",
+    "auto_save": true,
+    "output_folder": "C:\\Users\\NHlCK",
+    "default_slice_count": 20,
+    "recent_files": [
+        "C:/Users/NHlCK/Downloads/Images/4.jpg",
+        "C:/Users/NHlCK/Downloads/Images/3.jpg",
+        "C:/Users/NHlCK/Downloads/Images/2.jpg",
+        "C:/Users/NHlCK/Downloads/Images/1.jpg"
+    ],
+    "image_quality": 95
+}

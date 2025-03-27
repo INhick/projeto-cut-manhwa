@@ -1,0 +1,11 @@
+{
+    "hotkeys": {
+        "add_images": "<Control-o>",
+        "slice_images": "<Control-s>",
+        "clear_slices": "<Control-c>",
+        "toggle_cut_mode": "<Control-m>",
+        "next_image": ",",
+        "previous_image": "."
+    },
+    "theme": "dark"
+}
