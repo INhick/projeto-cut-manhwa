@@ -337,6 +337,7 @@ class DivisorTexto(QMainWindow):
             'começara': 'começou', 'tivera': 'teve', 'ganhara': 'ganhou',
             'escolhera': 'escolheu', 'salvara': 'salvou', 'aprendera': 'aprendeu',
             'pedira': 'pediu', 'tornara': 'tornou', 'surgira': 'surgiu' , 'ouvirá': 'ouviu'
+            , 'gostara': 'gostou'
         }
         
         def substituir_preservando_caso(match):
